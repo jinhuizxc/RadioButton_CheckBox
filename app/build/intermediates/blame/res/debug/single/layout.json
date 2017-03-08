@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\workspace-studio\\RadioButton_CheckBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\workspace-studio\\RadioButton_CheckBox\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\workspace-studio\\RadioBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\workspace-studio\\RadioBox\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\workspace-studio\\RadioBox_CheckBox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\workspace-studio\\RadioBox_CheckBox\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
